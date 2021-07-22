@@ -1,0 +1,7 @@
+C:\Users\cf303520\source\repos\Lab07 Grade\Lab07 Grade\bin\Debug\Lab07 Grade.exe.config
+C:\Users\cf303520\source\repos\Lab07 Grade\Lab07 Grade\bin\Debug\Lab07 Grade.exe
+C:\Users\cf303520\source\repos\Lab07 Grade\Lab07 Grade\bin\Debug\Lab07 Grade.pdb
+C:\Users\cf303520\source\repos\Lab07 Grade\Lab07 Grade\obj\Debug\Lab07 Grade.csproj.AssemblyReference.cache
+C:\Users\cf303520\source\repos\Lab07 Grade\Lab07 Grade\obj\Debug\Lab07 Grade.csproj.CoreCompileInputs.cache
+C:\Users\cf303520\source\repos\Lab07 Grade\Lab07 Grade\obj\Debug\Lab07 Grade.exe
+C:\Users\cf303520\source\repos\Lab07 Grade\Lab07 Grade\obj\Debug\Lab07 Grade.pdb
